@@ -14,13 +14,13 @@ My toolkit includes a diverse set of languages and frameworks, employed based on
 ## Projects and Pursuits
 - I generally engage in coding projects that I find practically useful. My repositories are a mix of tools and applications born out of real-world needs.
 - I appreciate the functionality and direct impact of my work, aiming to create solutions that simplify and enhance both my life and that of others.
-- Open-source contributions and collaborative projects are always on my radar, especially those that align with my pragmatic approach to programming.
-
+- Open-source contributions and collaborative projects are always on my radar.
+  
 ## Connect With Me
 For discussions, collaborations, or inquiries, feel free to reach out:
 - **Discord:** @acewinters
 
 ## Beyond Code
-When not immersed in coding, I pursue other interests that keep me balanced and engaged with the world beyond the screen like story writing and drafting reviewing.
+When not immersed in coding or gaming, I pursue other interests that keep me balanced and engaged with the world beyond the screen like story writing and drafting reviewing.
 
 Appreciate your visit! If you find my work interesting or useful, let's connect and collaborate.
